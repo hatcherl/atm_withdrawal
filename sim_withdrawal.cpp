@@ -88,6 +88,6 @@ void getWithdrawal(int amount)
 	cout << output2 << " $10 bills" << endl;
 	cout << output3 << " $5 bills" << endl;
 	cout << output4 << " $1 bills" << endl;
-	
+
 
 }
