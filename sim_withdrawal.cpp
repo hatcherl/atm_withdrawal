@@ -11,8 +11,8 @@ int main()
 	do {
 
 		do {
-			cout << "Please select withdrawal ammount. [$1-$300]" << endl;
-			cout << "No coins will be deposited." << endl;
+			cout << "Please select withdrawal ammount. [1-300]" << endl;
+			cout << "No coins will be deposited. [Please do not use special symbols]" << endl;
 
 			cin >> wAmount;
 			if (cin.fail())
